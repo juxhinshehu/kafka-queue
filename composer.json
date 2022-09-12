@@ -1,0 +1,16 @@
+{
+    "name": "juxhinshehu/kafka-queue",
+    "require": {
+        "laravel/framework": "^8.83"
+    },
+    "autoload": {
+        "psr-4": {
+            "Juxhinshehu\\KafkaQueue\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juxhin Shehu"
+        }
+    ]
+}
